@@ -162,7 +162,7 @@ Me chamo Rafael Guerra, tenho 17 anos e sou natural de São Paulo. Atualmente, e
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fael-stack&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fael-stack)" 
   />
 
 </p>
